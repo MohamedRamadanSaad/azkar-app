@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "azkar-app",
+    "name": "وِرد",
     "slug": "azkar-app",
+    "description": "عداد أذكار يومي بسيط",
+    "githubUrl": "https://github.com/MohamedRamadanSaad/azkar-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
