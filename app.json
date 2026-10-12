@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aafb2a6e-8523-4d95-9414-9466ebf3b9d2"
+      }
+    },
+    "owner": "mohamed-ramadan"
   }
 }
