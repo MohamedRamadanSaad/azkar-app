@@ -28,6 +28,12 @@
         "projectId": "aafb2a6e-8523-4d95-9414-9466ebf3b9d2"
       }
     },
-    "owner": "mohamed-ramadan"
+    "owner": "mohamed-ramadan",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/aafb2a6e-8523-4d95-9414-9466ebf3b9d2"
+    }
   }
 }
